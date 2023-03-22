@@ -17296,7 +17296,7 @@ span {
     }
 
     .header-section .navbar .navbar-collapse .navbar-nav .nav-item .dropdown-menu {
-        display: none
+        display: flex
     }
 
     .header-section .navbar .navbar-collapse .navbar-nav .nav-item {

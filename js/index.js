@@ -2132,7 +2132,8 @@
       (_N_E = e.O());
   },
 ]);
-// When the user scrolls the page, execute myFunction 
+
+/* Start of fixed header*/ 
 window.onscroll = function() {myFunction()};
 
 // Get the header
@@ -2149,3 +2150,4 @@ function myFunction() {
     header.classList.remove("header-fixed");
   }
 }
+/* End of fixed header */ 
