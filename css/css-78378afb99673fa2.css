@@ -3627,7 +3627,8 @@ fieldset:disabled .btn {
 }
 
 .collapse:not(.show) {
-    display: none
+    display:none;
+     
 }
 
 .collapsing {
@@ -13251,7 +13252,7 @@ span {
 
 .banner-section .overlay {
     background-color: #f5faff;
-    background-image: url(banner-1.png);
+    background-image: url(/images/home/banner-1.png);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: right bottom 90px
