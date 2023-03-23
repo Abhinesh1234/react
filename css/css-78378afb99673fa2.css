@@ -13252,7 +13252,7 @@ span {
 
 .banner-section .overlay {
     background-color: #f5faff;
-   
+    animation-name: ;
     background-repeat: no-repeat;
     background-size: auto;
     background-position: right bottom 90px
@@ -13440,7 +13440,7 @@ span {
 }
 
 .banner-section.contact .overlay {
-    background-image: url(../images/images-contact-banner.png);
+   
     background-repeat: no-repeat;
     background-position: right 50px bottom
 }
