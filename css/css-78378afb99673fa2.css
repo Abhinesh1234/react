@@ -13336,9 +13336,9 @@ span {
 }
 
 .banner-section.about .overlay {
-    background-image: url(../images/images-about-left.png), url(../images/images-about-right.png);
+    background-image: url(images/about/about-left.png);
     background-repeat: no-repeat;
-    background-position: left 120px, 100% 100%
+    background-position: right 50px bottom
 }
 
 .banner-section.career-single .overlay {
