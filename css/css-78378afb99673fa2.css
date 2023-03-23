@@ -13368,9 +13368,9 @@ span {
 }
 
 .banner-section.card-banner .overlay {
-    background-image: url(../images/images-card-banner-bg.png), url(../images/images-card-banner.png);
+    
     background-repeat: no-repeat;
-    background-position: 0 100%, 100% 100%
+    background-position: right -10% bottom 30px
 }
 
 .banner-section.card-banner .overlay .banner-content {
