@@ -13254,7 +13254,7 @@ span {
 }
 
 .banner-section .overlay {
-    background-color: #f5faff;
+    background-color: #1F2F3C;
     animation-name: ;
     background-repeat: no-repeat;
     background-size: auto;
@@ -13487,7 +13487,7 @@ span {
 
 .banner-section.remittance .bottom-box .form-content .single-input .single {
     padding: 0 0 0 20px;
-    background: #f5faff;
+    background: #1F2F3C;
     border: 1px solid #eef1ff;
     border-radius: 5px
 }
@@ -13772,7 +13772,7 @@ span {
 }
 
 .features-section.pay-early {
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .features-section.remittance .img-area {
@@ -13799,7 +13799,7 @@ span {
 .solutions-business .single-box .thumb {
     width: 140px;
     height: 140px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 70px;
     margin: auto auto 30px
 }
@@ -14107,7 +14107,7 @@ span {
 }
 
 .call-action.educations .main-content .single-input .single-radio:hover input~.checkmark {
-    background-color: #f5faff
+    background-color: #1F2F3C
 }
 
 .call-action.educations .main-content .single-input .single-radio input {
@@ -14117,7 +14117,7 @@ span {
 }
 
 .call-action.educations .main-content .single-input .single-radio input:checked~.checkmark {
-    background-color: #f5faff;
+    background-color: #1F2F3C;
     border: 1px solid var(--hover-color)
 }
 
@@ -14131,7 +14131,7 @@ span {
     left: 0;
     height: 22px;
     width: 22px;
-    background-color: #f5faff;
+    background-color: #1F2F3C;
     border: 1px solid #b0baf1;
     border-radius: 50%
 }
@@ -14175,7 +14175,7 @@ span {
 .financial-planning .plan-box .thumb {
     width: 80px;
     height: 80px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 40px;
     display: flex;
     align-items: center;
@@ -14236,7 +14236,7 @@ span {
 }
 
 .financial-planning.how-works-business {
-    background: #f5faff;
+    background: #1F2F3C;
     position: relative
 }
 
@@ -14392,7 +14392,7 @@ span {
 }
 
 .latest-articles {
-    background-color: #f5faff
+    background-color: #1F2F3C
 }
 
 .latest-articles .cus-mar {
@@ -14537,7 +14537,7 @@ span {
 
 .latest-articles.blog-contant .pagination li .page-link.next,
 .latest-articles.blog-contant .pagination li .page-link.previous {
-    background: #f5faff;
+    background: #1F2F3C;
     margin: 0 23px
 }
 
@@ -14574,7 +14574,7 @@ span {
 
 .latest-articles.blog-contant .side-single .search-area .form-group {
     padding: 10px 20px;
-    background: #f5faff;
+    background: #1F2F3C;
     border: 1px solid #eef1ff;
     border-radius: 5px
 }
@@ -14647,7 +14647,7 @@ span {
 }
 
 .latest-articles.blog-single {
-    background: linear-gradient(180deg, #f5faff, rgba(245, 250, 255, 0))
+    background: linear-gradient(180deg, #1F2F3C, rgba(245, 250, 255, 0))
 }
 
 .latest-articles.blog-single .blog-item .content span {
@@ -14748,7 +14748,7 @@ span {
     position: absolute;
     width: 90%;
     height: 100%;
-    background: linear-gradient(180deg, #f5faff, rgba(245, 250, 255, 0));
+    background: linear-gradient(180deg, #1F2F3C, rgba(245, 250, 255, 0));
     left: 5%;
     z-index: -1
 }
@@ -14936,7 +14936,7 @@ span {
 }
 
 .our-core-values {
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .our-core-values .section-header p {
@@ -15010,7 +15010,7 @@ span {
 }
 
 .our-journey {
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .our-journey .journey-carousel {
@@ -15119,7 +15119,7 @@ span {
     margin: auto;
     width: 140px;
     height: 140px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 70px;
     overflow: hidden
 }
@@ -15133,7 +15133,7 @@ span {
 }
 
 .current-positions {
-    background: #f5faff;
+    background: #1F2F3C;
 }
 
 .current-positions .single-item {
@@ -15147,7 +15147,7 @@ span {
 .current-positions .single-item .mdr {
     color: var(--hover-color);
     padding: 5px 10px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 25px;
     display: inline-block
 }
@@ -15288,7 +15288,8 @@ span {
 .account-feature .single-box .icon-box {
     width: 80px;
     height: 80px;
-    background: #f5faff;
+    background: #f5faff
+;
     border-radius: 40px;
     margin: auto;
     display: flex;
@@ -15343,7 +15344,7 @@ span {
 }
 
 .security-section.remittance {
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .more-feature {
@@ -15355,7 +15356,7 @@ span {
     position: absolute;
     width: 90%;
     height: 100%;
-    background: #f5faff;
+    background: #1F2F3C;
     left: 5%;
     z-index: -1
 }
@@ -15460,7 +15461,7 @@ span {
 .more-feature.remittance .content-area .img-area {
     min-width: 80px;
     min-height: 80px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 40px;
     display: flex;
     align-items: center;
@@ -15486,7 +15487,7 @@ span {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 80px
 }
 
@@ -15545,7 +15546,7 @@ span {
 }
 
 .how-works {
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .how-works .nav-tabs {
@@ -15770,7 +15771,7 @@ span {
 }
 
 .personalized-solution {
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .apply-for-loan .overlay {
@@ -15825,7 +15826,7 @@ span {
     height: 75%;
     top: 0;
     z-index: -1;
-    background: #f5faff
+    background: #1F2F3C
 }
 
 .apply-for-loan.business-loan .overlay {
@@ -15903,7 +15904,7 @@ span {
     content: "";
     width: 100%;
     height: 80%;
-    background: #f5faff;
+    background: #1F2F3C;
     top: 0;
     left: 0;
     z-index: -1
@@ -16066,7 +16067,7 @@ span {
 
 .loan-calculation {
     position: relative;
-    background: #f5faff;
+    background: #1F2F3C;
     z-index: 0
 }
 
@@ -16155,7 +16156,7 @@ span {
 }
 
 .loan-calculation .radio-area .single-radio:hover input~.checkmark {
-    background-color: #f5faff
+    background-color: #1F2F3C
 }
 
 .loan-calculation .radio-area .single-radio input {
@@ -16165,7 +16166,7 @@ span {
 }
 
 .loan-calculation .radio-area .single-radio input:checked~.checkmark {
-    background-color: #f5faff;
+    background-color: #1F2F3C;
     border: 1px solid var(--hover-color)
 }
 
@@ -16179,7 +16180,7 @@ span {
     left: 0;
     height: 22px;
     width: 22px;
-    background-color: #f5faff;
+    background-color: #1F2F3C;
     border: 1px solid #b0baf1;
     border-radius: 50%
 }
@@ -16376,7 +16377,7 @@ span {
 .our-products .content-area .img-area {
     min-width: 65px;
     min-height: 65px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-radius: 50px;
     display: flex;
     align-items: center;
@@ -16407,7 +16408,7 @@ span {
     position: absolute;
     width: 90%;
     height: 100%;
-    background: #f5faff;
+    background: #1F2F3C;
     left: 5%;
     z-index: -1
 }
@@ -16452,7 +16453,7 @@ span {
 
 .how-it-works .contant-area .input-area {
     padding: 15px 30px;
-    background: #f5faff;
+    background: #1F2F3C;
     border: 1px solid #b0baf1;
     border-radius: 10px;
     margin: 20px 0
@@ -16667,7 +16668,7 @@ span {
 
 .sign-in-up form .single-input .password-show {
     padding: 0 20px;
-    background: #f5faff;
+    background: #1F2F3C;
     border: 1px solid #eef1ff;
     border-radius: 5px
 }
@@ -16688,7 +16689,7 @@ span {
 
 .sign-in-up form .single-input .phone-number {
     padding: 0 20px;
-    background: #f5faff;
+    background: #1F2F3C;
     border: 1px solid #eef1ff;
     border-radius: 5px
 }
@@ -16761,7 +16762,7 @@ span {
 
 .sign-in-up.verify-number .mobile-otp input {
     margin-right: 10px;
-    background: #f5faff;
+    background: #1F2F3C;
     border-color: transparent;
     box-shadow: none
 }
@@ -16836,7 +16837,7 @@ span {
 }
 
 .preloader .loader .loader-section .bg {
-    background-color: #f5faff;
+    background-color: #1F2F3C;
     height: 100%;
     left: 0;
     width: 100%;
