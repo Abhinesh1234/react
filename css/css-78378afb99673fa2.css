@@ -5018,7 +5018,7 @@ fieldset:disabled .btn {
     height: var(--bs-accordion-btn-icon-width);
     margin-left: auto;
     content: "";
-    background-image: url(/images/home/add.svg);
+    background-image: url(/images/home/plus.png);
     background-repeat: no-repeat;
     background-size: var(--bs-accordion-btn-icon-width);
     transition: var(--bs-accordion-btn-icon-transition)
@@ -8923,7 +8923,7 @@ fieldset:disabled .btn {
 }
 
 .text-decoration-none {
-    text-decoration: none !important
+    text-decoration:none !important
 }
 
 .text-decoration-underline {
@@ -13254,7 +13254,7 @@ span {
 }
 
 .banner-section .overlay {
-    background-color: #1463f3;
+    background-color: #143aa2;
     animation-name: ;
     background-repeat: no-repeat;
     background-size: auto;
@@ -14693,7 +14693,7 @@ span {
     height: 1.25rem;
     margin-left: auto;
     content: "";
-    background-image: url(../images/icon-minus.png);
+    background-image: url(../images/home/minus.svg);
     background-repeat: no-repeat;
     background-size: 1.25rem;
     transition: all .3s ease
@@ -14716,7 +14716,7 @@ span {
     height: 1.25rem;
     margin-left: auto;
     content: "";
-    background-image: url(../images/icon-plus.png);
+    background-image: url(../images/home/add.svg);
     background-repeat: no-repeat;
     background-size: 1.25rem;
     transform: rotate(-90deg);
@@ -14938,7 +14938,7 @@ span {
 }
 
 .our-core-values {
-    background: #1F2F3C
+    background-color: #143aa2;
 }
 
 .our-core-values .section-header p {
@@ -15920,6 +15920,9 @@ span {
 }
 
 .business-loan-section .section-header .top-para {
+    text-align: ;
+    line-height: 1.5em;
+    letter-spacing: 0em;
     width: 65%;
     margin: auto
 }
@@ -17123,6 +17126,7 @@ span {
     }
 
     .business-loan-section .section-header .top-para {
+       
         width: 100%
     }
 
