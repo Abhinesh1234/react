@@ -23104,19 +23104,42 @@ iframe.wait-autoplay {
     background-size: cover;
   }
   .carousel .one {
-    background-image: url(/img1.jpg);
+    background-image: url(../images/home/banner/myfx-banner1.jpg);
+    
   }
   .carousel .two {
-    background-image: url(https://cdn.pixabay.com/photo/2015/06/15/09/59/statistics-810024__340.jpg);
+    background-image: url(../images/home/banner/myfx-banner2.jpg);
   }
   .carousel .three {
-    background-image: url(https://cdn.pixabay.com/photo/2013/05/18/07/10/career-111932__340.jpg);
+    background-image: url(../images/home/banner/myfx-banner3.jpg);
   }
   .carousel .four {
     background-image: url(https://cdn.pixabay.com/photo/2015/03/29/08/47/entrepreneur-696966__340.jpg);
   }
   .carousel .five {
     background-image: url(https://cdn.pixabay.com/photo/2016/09/05/18/49/plastic-card-1647376__340.jpg);
+  }
+
+  .carousel .one-mobile {
+    background-image: url(../img1.jpg);
+    display: none;
+  }
+  .carousel .two-mobile {
+    background-image: url(https://cdn.pixabay.com/photo/2015/06/15/09/59/statistics-810024__340.jpg);
+    display: none;
+
+  }
+  .carousel .three-mobile {
+    background-image: url(https://cdn.pixabay.com/photo/2013/05/18/07/10/career-111932__340.jpg);
+    display: none;
+  }
+  .carousel .four-mobile {
+    background-image: url(https://cdn.pixabay.com/photo/2015/03/29/08/47/entrepreneur-696966__340.jpg);
+    display: none;
+  }
+  .carousel .five-mobile {
+    background-image: url(https://cdn.pixabay.com/photo/2016/09/05/18/49/plastic-card-1647376__340.jpg);
+    display: none;
   }
   #slide-btn-1:checked ~ .one,
   #slide-btn-2:checked ~ .two,
