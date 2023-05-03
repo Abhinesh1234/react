@@ -23104,7 +23104,7 @@ iframe.wait-autoplay {
     background-size: cover;
   }
   .carousel .one {
-    background-image: url(/img1.jpg);
+    background-image: url(../img1.jpg);
   }
   .carousel .two {
     background-image: url(https://cdn.pixabay.com/photo/2015/06/15/09/59/statistics-810024__340.jpg);
