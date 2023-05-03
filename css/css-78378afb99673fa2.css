@@ -13600,7 +13600,7 @@ span {
 }
 
 .banner-section.faqs .overlay {
-    background-image: url(../images/faqs-banner.png)
+    background-image: url(/images/faqs-banner.png)
 }
 
 .banner-section.privacy-content .overlay {
@@ -23104,7 +23104,7 @@ iframe.wait-autoplay {
     background-size: cover;
   }
   .carousel .one {
-    background-image: url(https://cdn.pixabay.com/photo/2017/03/25/23/11/buildings-2174578__340.jpg);
+    background-image: url(/img1.jpg);
   }
   .carousel .two {
     background-image: url(https://cdn.pixabay.com/photo/2015/06/15/09/59/statistics-810024__340.jpg);
