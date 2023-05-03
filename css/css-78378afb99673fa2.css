@@ -13600,7 +13600,7 @@ span {
 }
 
 .banner-section.faqs .overlay {
-    background-image: url(/images/faqs-banner.png)
+    background-image: url(../images/faqs-banner.png)
 }
 
 .banner-section.privacy-content .overlay {
@@ -23104,8 +23104,12 @@ iframe.wait-autoplay {
     background-size: cover;
   }
   .carousel .one {
+<<<<<<< HEAD
     background-image: url(../images/home/banner/myfx-banner1.jpg);
     
+=======
+    background-image: url(../img1.jpg);
+>>>>>>> 33dfc9d2d477999514e845964ab3c792d7a7c4c7
   }
   .carousel .two {
     background-image: url(../images/home/banner/myfx-banner2.jpg);
