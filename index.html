@@ -517,26 +517,55 @@
           <input type="radio" name="carousel" id="slide-btn-1" class="slide-btn" onclick="setInt();" checked />
           <input type="radio" name="carousel" id="slide-btn-2" class="slide-btn" onclick="setInt();" />
           <input type="radio" name="carousel" id="slide-btn-3" class="slide-btn" onclick="setInt();" />
-          
+               
 
-          <div class="slide one parallax-effect"></div>
-          <div class="slide two parallax-effect"></div>
-          <div class="slide three parallax-effect"></div>
-         
-            
-          <div class="slide one-mobile parallax-effect"></div>
-          <div class="slide two-mobile parallax-effect"></div>
-          <div class="slide three-mobile parallax-effect"></div>
-         
+          <div class="slide one">
+            <picture>
+              <source 
+                 media="(orientation: landscape)"
+                 srcset="../images/home/banner/eng-1-lap.png">
+              <source 
+                 media="(orientation: portrait)"
+                 srcset="../images/home/banner/eng-1-phone.png">
+              <img src="../images/home/banner/eng-1-lap.png" 
+              alt="a cute kitten">
+           </picture>
+          </div>
+          <div class="slide two">
+            <picture>
+              <source 
+                 media="(orientation: landscape)"
+                 srcset="../images/home/banner/eng-2-lap.png">
+              <source 
+                 media="(orientation: portrait)"
+                 srcset="../images/home/banner/eng-2-phone.png">
+              <img src="../images/home/banner/eng-2-lap.png" 
+              alt="a cute kitten">
+           </picture>
+          </div>
+          <div class="slide three">
+            <picture>
+              <source 
+                 media="(orientation: landscape)"
+                 srcset="../images/home/banner/eng-3-lap.png">
+              <source 
+                 media="(orientation: portrait)"
+                 srcset="../images/home/banner/eng-3-phone.png">
+              <img src="../images/home/banner/eng-3-lap.png" 
+              alt="a cute kitten">
+           </picture>
+          </div>
+
 
           <div class="labels">
             <label for="slide-btn-1"></label>
             <label for="slide-btn-2"></label>
             <label for="slide-btn-3"></label>
+
           
           </div>
         </div>
-      
+       
         <div class="home-stats-block panel-row-style panel-row-style-for-18601-1" style="background: url(images/home/pattern.png) repeat;"> 
           <div id="panel-18601-1-0-0" class="so-panel widget widget_home_stats_widget_2 panel-first-child" data-index="1"><div class="panel-widget-style panel-widget-style-for-18601-1-0-0"><div class="so-widget-home_stats_widget_2 so-widget-home_stats_widget_2-default-d75171398898-18601"> <div class="container">
           <div class="row">
@@ -571,7 +600,7 @@
           </div>
           </div>
         </div>
-        </div>
+      </div>
           
         <!--<div class="partner">
           <div class="container">
@@ -4229,6 +4258,7 @@ Are you tired of struggling to make consistent profits in the forex market? Look
     }, 5000); 
   }
   setInt();
+
 </script>
     <script src="jsfile.js"></script>
   </body>
